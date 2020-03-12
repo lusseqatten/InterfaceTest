@@ -2,8 +2,6 @@ package test.main.music.band;
 
 import test.main.music.instruments.MusicalInstrument;
 import test.main.performing.AbstractPerformer;
-import test.main.performing.Performable;
-import test.main.performing.Performer;
 
 public class Member extends AbstractPerformer<MusicalInstrument> {
 	
